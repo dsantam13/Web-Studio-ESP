@@ -17,6 +17,7 @@ h1, h2, h3{
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
+    text-shadow: 2px 2px 5px #ff0000, 5px 5px 5px #0e1ef5;
 
     /* or 136% */
     text-align: center;
