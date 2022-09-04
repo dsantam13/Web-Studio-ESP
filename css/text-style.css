@@ -1,0 +1,99 @@
+h1 {
+    font-family: 'DynaPuff', cursive;
+}
+
+.menu {
+    text-transform: none;
+}
+
+.menu2 {
+    text-transform: uppercase;
+}
+
+.menu3 {
+    text-transform: lowercase;
+}
+
+.menu4 {
+    text-transform: capitalize;
+}
+
+.text {
+    font-family: 'Roboto','Helvetica Neue',sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.text::first-letter {
+    font-size: 36px;
+    font-family: 'DynaPuff', cursive;
+}
+
+.text::selection {
+    color: #ffffff;
+    background-color: #16bccb;
+}
+
+.text2 {
+    font-family: 'Roboto',sans-serif;
+}
+
+.text3 {
+    font-style: oblique;
+}
+
+.text > span {
+    text-decoration: line-through;
+}
+
+.text > span::selection {
+    color: #ffffff;
+    background-color: #16bccb;
+}
+
+.text2 > span {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.text3 > span {
+    font-size: 20px;
+    text-decoration: overline;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.indent-text {
+    text-indent: 50px;
+}
+
+.margin-left {
+    margin-left: 50px;
+}
+
+.post-title {
+    letter-spacing: 10px;
+    word-spacing: 15px;
+    text-shadow: 2px 2px 4px #d29421;
+    text-align: center;
+    font-family: 'Silkscreen', cursive;
+}
+
+.post-text {
+    font-size: 20px;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.align-justify {
+    text-align: justify;
+}
+
+.align-left {
+    text-align: left;
+}
