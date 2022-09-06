@@ -1,0 +1,19 @@
+.blocks {
+    border: 2px dashed #2196f3;
+    padding-top: 30px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+
+    margin: 20px;
+}
+
+.blocks2 {
+    border: 2px dashed #2196f3;
+    padding-top: 30px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+
+    margin: 50px;
+}
