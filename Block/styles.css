@@ -7,8 +7,27 @@ footer {
     padding: 20px;
 }
 
+.border {
+    box-sizing: border-box;
+
+    padding: 50px;
+    width: 500px;
+}
+
+.content {
+    box-sizing: content-box;
+
+    padding: 50px;
+    width: 500px;
+}
+
 .blocks {
+    box-sizing: border-box;
+
+    width: 500px;
+
     border: 2px dashed #2196f3;
+
     padding-top: 30px;
     padding-right: 15px;
     padding-bottom: 30px;
@@ -18,4 +37,14 @@ footer {
     margin-right: 20px;
     margin-left: 20px;
     margin-bottom: 20px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+
+    border: 5px solid #f44336;
+    background-color: #ffeb3b;
+    padding: 30px;
+    margin: 80px;
 }
